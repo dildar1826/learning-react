@@ -15,6 +15,6 @@ look at the folder numbers — they're roughly chronological.
 | # | Project | What I practiced |
 |---|---------|-------------------|
 | 01 | [Password Generator](./01-password-generator) | useState, useEffect, useRef, useCallback | Copy , Paste Buttons
-
+| 02 | [Currency Converter](./02-Currency-Converter) | useState, useEffect, Fetch & Parse, Toggling | 
 ## Stack
 React, Vite, Tailwind CSS
