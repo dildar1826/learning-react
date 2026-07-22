@@ -1,3 +1,4 @@
+//----------------------- MY FIRST PROJECT IN REACT WHILE LEARNING IT ------------------------------
 import { useCallback, useEffect, useRef, useState } from 'react'
 
 function App() {
@@ -30,7 +31,7 @@ function App() {
     const text = await navigator.clipboard.readText()
     setClip(text)
   }, [])
-
+  console.log("Test git Synchronizaion")
   useEffect(() => {
     passgenerator()
   }, [passgenerator])
