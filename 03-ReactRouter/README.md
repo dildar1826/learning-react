@@ -9,11 +9,3 @@ As I build and explore this project, I have implemented the following core React
 * `Route` — To define individual paths and map them to components.
 * `Link` — For seamless client-side navigation between pages.
 * `NavLink` — For styled navigation links (like active states).
-
-## 🔮 Future Additions
-I will continue updating this project as I learn more advanced routing concepts, which may include:
-* Nested Routes
-* Dynamic Route Parameters (`useParams`)
-* Programmatic Navigation (`useNavigate`)
-* URL Query Parameters (`useSearchParams`)
-* Protected / Private Routes
