@@ -1,25 +1,19 @@
-<<<<<<< HEAD
-React Router project for learning React Router
+# React Router Practice (03-ReactRouter)
 
+This project is created for **learning and practice purposes only** to understand client-side routing in React. 
 
+## 🚀 What I've Used So Far
+As I build and explore this project, I have implemented the following core React Router features:
+* `BrowserRouter` — To enable routing in the application.
+* `Routes` — To group and render route matches.
+* `Route` — To define individual paths and map them to components.
+* `Link` — For seamless client-side navigation between pages.
+* `NavLink` — For styled navigation links (like active states).
 
-
-Note:- I can't add the exact project, because I'm currently using Mobile to add some files here, Git is not setup on my mobile so please bear it.
-=======
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 35b39c1 (Initial Commit)
+## 🔮 Future Additions
+I will continue updating this project as I learn more advanced routing concepts, which may include:
+* Nested Routes
+* Dynamic Route Parameters (`useParams`)
+* Programmatic Navigation (`useNavigate`)
+* URL Query Parameters (`useSearchParams`)
+* Protected / Private Routes
