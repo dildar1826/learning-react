@@ -31,7 +31,7 @@ function App() {
     const text = await navigator.clipboard.readText()
     setClip(text)
   }, [])
-  console.log("Test git Synchronizaion")
+  console.log("Test git Synchronizaion .....")
   useEffect(() => {
     passgenerator()
   }, [passgenerator])
