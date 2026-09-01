@@ -9,3 +9,6 @@ As I build and explore this project, I have implemented the following core React
 * `Route` — To define individual paths and map them to components.
 * `Link` — For seamless client-side navigation between pages.
 * `NavLink` — For styled navigation links (like active states).
+* `Static/Dynamic Router` - For server side rendering and client side rendering.
+* ` Nested Routes` 
+All other basics...
